@@ -1,0 +1,1 @@
+avr-objcopy -j .text -j .data -O ihex lufa_test lufa_test.hex
